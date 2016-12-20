@@ -1,6 +1,5 @@
 # learning-observable-typescript
-A starter project using RxJS Observable in TypeScript.
-Development in progress.
+A starter project using RxJS Observable in TypeScript containing code samples of a few RxJS operators.
 
 ## To run the app
 ```
