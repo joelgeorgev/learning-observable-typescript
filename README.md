@@ -1,4 +1,4 @@
-# learning-observable-typescript
+# Learning Observable in TypeScript
 A starter project using RxJS Observable in TypeScript containing code samples of a few RxJS operators.
 
 ![Screenshot](./images/output.gif)
