@@ -9,3 +9,6 @@ git clone https://github.com/joelgeorgev/learning-observable-typescript.git
 cd learning-observable-typescript
 npm install && npm start
 ```
+
+## License
+MIT
